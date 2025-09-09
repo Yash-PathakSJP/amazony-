@@ -5,8 +5,7 @@ It was created for learning purposes and to practice web development skills by r
 
 🔗 Live Demo
 
-👉 View Amazony
-(Replace your-username with your actual GitHub username)
+👉 https://yash-pathaksjp.github.io/amazony-/
 
 ✨ Features
 
